@@ -51,7 +51,7 @@ const Menu = () => {
         <ul>
           <li>
             <Link to="/" activeStyle={activeLinkStyle}>
-              Health Archetextures | Home
+              Health Archetextures
             </Link>
           </li>
           <li>

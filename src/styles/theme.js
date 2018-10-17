@@ -2,9 +2,7 @@ const theme = {
   colors: {
     base: '#121212', // Black
     secondary: '#e9e9e9', // Medium Gray
-    // OLDtertiary: '#f3f3f3', // Light Gray
-    tertiary: '#ff6600', // Orange
-
+    tertiary: '#f3f3f3', // Light Gray
     highlight: '#ff6600', // Orange
   },
   sizes: {
