@@ -58,6 +58,7 @@ const Footer = () => (
         </a>
       </Item>
       <Item>
+      Based upon{' '}
         <a
           href="https://github.com/ryanwiemer/gatsby-starter-gcn"
           target="_blank"
@@ -73,6 +74,9 @@ const Footer = () => (
         >
           @ryanwiemer
         </a>
+      </Item>
+      <Item>
+      &copy; John Meredith 
       </Item>
     </List>
   </Wrapper>
