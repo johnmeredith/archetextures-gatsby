@@ -162,6 +162,7 @@ module.exports = {
         color: config.themeColor,
       },
     },
+    'gatsby-plugin-twitter',
     'gatsby-plugin-netlify',
   ],
 }
