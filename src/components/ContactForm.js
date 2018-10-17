@@ -198,11 +198,11 @@ class ContactForm extends React.Component {
         name="contact"
         onSubmit={this.handleSubmit}
         data-netlify="true"
-        data-netlify-honeypot="bot"
+        data-netlify-honeypot="bot-field"
         overlay={this.state.showModal}
         onClick={this.closeModal}
       >
-        <input type="hidden" name="form-name" value="contact" />
+        <input type="hidden" name="bot-field" value="contact" />
         <p hidden>
           <label>
             Don’t fill this out:{' '}
